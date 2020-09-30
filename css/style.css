@@ -144,7 +144,7 @@ button:focus {
   animation: cloudAnimation 8s infinite alternate ease-in-out;
 }
 .moving-cloud-2 {
-  top: 15%;
+  top: 12%;
   z-index: -1;
   opacity: 0.8;
   animation: cloudAnimation 10s infinite alternate ease-in-out;
