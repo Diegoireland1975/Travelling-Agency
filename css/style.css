@@ -161,7 +161,7 @@ button:focus {
     transform: translate(4%, -7%);
   }
   100% {
-    transform: translate(5%, -10%);
+    transform: translate(10%, -15%);
   }
 }
 
