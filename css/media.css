@@ -17,13 +17,8 @@
     align-items: center;
   }
 
-  .main-nav {
-    display: flex;
-  }
-
   .main-nav li {
     margin-left: 3rem;
-    margin-bottom: 0;
   }
 
   .cloud {

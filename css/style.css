@@ -82,8 +82,10 @@ button:focus {
   z-index: 1;
 }
 
-.main-nav li {
-  margin-bottom: 1rem;
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  min-width: 400px;
 }
 
 .main-nav a {
@@ -198,7 +200,7 @@ button:focus {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
   text-align: center;
   margin: 2rem 3rem;
-  height: 50vh;
+  height: 40vh;
   background: #4c6e97;
 }
 .cards img {
@@ -233,7 +235,7 @@ button:focus {
 .form-wrapper {
   background: rgba(19, 28, 39, 0.8);
   border-radius: 5px;
-  width: 50vw;
+  width: 70vw;
   color: #fff;
   padding: 2rem;
   text-align: center;
