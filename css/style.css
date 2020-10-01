@@ -85,7 +85,7 @@ button:focus {
 .main-nav {
   display: flex;
   justify-content: space-between;
-  min-width: 400px;
+  min-width: 300px;
 }
 
 .main-nav a {
